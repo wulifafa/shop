@@ -1,2 +1,2 @@
 # shop
-shop-test
+elasticsearch MongoDB redis rabbitmq springsecurity jwt
